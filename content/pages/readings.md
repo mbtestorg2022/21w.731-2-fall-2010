@@ -16,18 +16,187 @@ Lunsford, A. _Easy Writer: A Pocket Reference_. 4th ed. Bedford/St. Martin's, 20
 Required Readings
 -----------------
 
-| SES # | READINGS |
-| --- | --- |
-| 2 |  {{< br >}}{{< br >}} Berger, Joseph. "[An Undocumented Princetonian](http://www.nytimes.com/2010/01/03/education/edlife/03alien-t.html?pagewanted=all)." _New York Times_, December 29, 2009. {{< br >}}{{< br >}} Tan, Amy. "Mother Tongue." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299. {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Alexie, Sherman. "The Joy of Reading and Writing: Superman and Me." {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Gelardi, Giovanni. "Multiple Dimensions of Love: From the Artist's Eyes."  {{< br >}}Lee, Chang-Rae. "Mute in an English-Only World."  {{< br >}}Marshall, Paule. "Poets in the Kitchen."  {{< br >}}Naylor, Gloria. "What's in a Name?" {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Agosin, Marjorie. "Always Living in Spanish."  {{< br >}}Cremona, Vincent. "My Pen Writes in Blue and White."  {{< br >}}Quindlen, Anna. "Gay."  {{< br >}}Soto, Gary. "Black Hair." {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Chopin, Kate. "The Storm."  {{< br >}}Ginzburg, Natalia. "He and I."  {{< br >}}Lim, Shirley Geok-Lin. "Two Lives." {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Majaj, Lisa Suhair. "Boundaries: Arab/American." In _Food for Our Grandmothers: Writings by Arab-American and Arab-Canadian Feminists_. Edited by Joanna Kadi. South End Press, 1999. ISBN: 9780896084902. {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Shoaib, Mahwash. "Treasures."  {{< br >}}Asayesh, Gelareh. "Shrouded in Contradiction." {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Curry, Andrew. "Why We Work."  {{< br >}}McGrath, Charles. "The Pleasures of the Text."  {{< br >}}Turkle, Sherry. "Can You Hear Me Now?" {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Kutnowski, Martin. "Why Does Wall-E Listen to Broadway Musicals?"  {{< br >}}Larios, Katherine. "Too Much Technology?"  {{< br >}}Misak, John. "Is That Video Game Programming You?" {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Hogan, Linda "Dwellings." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299. {{< br >}}{{< br >}} Silko, Leslie. "Lullaby." In _Norton Anthology of Literature by Women: The Tradition in English_. Edited by Sandra Gilbert and Susan Gubar. New York: W. W. Norton & Company, 1985. ISBN: 9780393019407. {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Sawaquat, Lewis. "For My Indian Daughter." {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} In class: Ragusa, Kym. _Passing_. 1996. Film. {{< br >}}{{< br >}} Bambara, Toni. "The Lesson" and Lorde, Audre. "The Fourth of July." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299. {{< br >}}{{< br >}} Patterson, Orlando. "Jean, O. J. and the Jailing of Black America." In _Best African American Essays: 2009_. Edited by Gerald Early and Debra Dickerson. New York: Bantam Books, 2009, pp. 233-36. ISBN: 9780553385366. {{< br >}}{{< br >}} Touré. "[Do Not Pass](http://www.nytimes.com/2010/02/21/books/review/Toure-t.html)." _New York Times_, February 16, 2010, Sunday Book Review. {{< br >}}{{< br >}} In \[Across Cultures\]:  {{< br >}}Wildeman, John. "The Night I Was Nobody." {{< br >}}{{< br >}}  |
-| 23 | Anzaldúa, Gloria. Preface and chapter 1 in _Borderlands/La Frontera: The New Meztiza_. San Francisco: Aunt Lute Books, 1987. ISBN: 9781879960572. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Berger, Joseph. "[An Undocumented Princetonian](http://www.nytimes.com/2010/01/03/education/edlife/03alien-t.html?pagewanted=all)." _New York Times_, December 29, 2009.
+
+Tan, Amy. "Mother Tongue." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299.
+
+In \[Across Cultures\]:  
+Alexie, Sherman. "The Joy of Reading and Writing: Superman and Me."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In \[Across Cultures\]:  
+Gelardi, Giovanni. "Multiple Dimensions of Love: From the Artist's Eyes."  
+Lee, Chang-Rae. "Mute in an English-Only World."  
+Marshall, Paule. "Poets in the Kitchen."  
+Naylor, Gloria. "What's in a Name?"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In \[Across Cultures\]:  
+Agosin, Marjorie. "Always Living in Spanish."  
+Cremona, Vincent. "My Pen Writes in Blue and White."  
+Quindlen, Anna. "Gay."  
+Soto, Gary. "Black Hair."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In \[Across Cultures\]:  
+Chopin, Kate. "The Storm."  
+Ginzburg, Natalia. "He and I."  
+Lim, Shirley Geok-Lin. "Two Lives."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Majaj, Lisa Suhair. "Boundaries: Arab/American." In _Food for Our Grandmothers: Writings by Arab-American and Arab-Canadian Feminists_. Edited by Joanna Kadi. South End Press, 1999. ISBN: 9780896084902.
+
+In \[Across Cultures\]:  
+Shoaib, Mahwash. "Treasures."  
+Asayesh, Gelareh. "Shrouded in Contradiction."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In \[Across Cultures\]:  
+Curry, Andrew. "Why We Work."  
+McGrath, Charles. "The Pleasures of the Text."  
+Turkle, Sherry. "Can You Hear Me Now?"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In \[Across Cultures\]:  
+Kutnowski, Martin. "Why Does Wall-E Listen to Broadway Musicals?"  
+Larios, Katherine. "Too Much Technology?"  
+Misak, John. "Is That Video Game Programming You?"
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hogan, Linda "Dwellings." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299.
+
+Silko, Leslie. "Lullaby." In _Norton Anthology of Literature by Women: The Tradition in English_. Edited by Sandra Gilbert and Susan Gubar. New York: W. W. Norton & Company, 1985. ISBN: 9780393019407.
+
+In \[Across Cultures\]:  
+Sawaquat, Lewis. "For My Indian Daughter."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In class: Ragusa, Kym. _Passing_. 1996. Film.
+
+Bambara, Toni. "The Lesson" and Lorde, Audre. "The Fourth of July." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299.
+
+Patterson, Orlando. "Jean, O. J. and the Jailing of Black America." In _Best African American Essays: 2009_. Edited by Gerald Early and Debra Dickerson. New York: Bantam Books, 2009, pp. 233-36. ISBN: 9780553385366.
+
+Touré. "[Do Not Pass](http://www.nytimes.com/2010/02/21/books/review/Toure-t.html)." _New York Times_, February 16, 2010, Sunday Book Review.
+
+In \[Across Cultures\]:  
+Wildeman, John. "The Night I Was Nobody."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Anzaldúa, Gloria. Preface and chapter 1 in _Borderlands/La Frontera: The New Meztiza_. San Francisco: Aunt Lute Books, 1987. ISBN: 9781879960572.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Reading_Responses" >}}{{< /anchor >}}Reading Responses
 ------------------------------------------------------------------
